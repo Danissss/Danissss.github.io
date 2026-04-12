@@ -1,0 +1,14 @@
+{
+  "data": {
+    "user": {
+      "name": "",
+      "bio": "",
+      "avatarUrl": "",
+      "location": "",
+      "pinnedItems": {
+        "totalCount": 0,
+        "edges": []
+      }
+    }
+  }
+}
