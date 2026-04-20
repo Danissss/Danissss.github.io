@@ -1,0 +1,13 @@
+{
+  "slug": "on-typography-and-code",
+  "title": "On Typography and Code",
+  "date": "2026-03-28",
+  "excerpt": "The surprising parallels between typographic design and writing clean, readable code.",
+  "tags": [
+    "typography",
+    "design",
+    "readability"
+  ],
+  "readingTime": "2 min read",
+  "body": "# On Typography and Code\n\nTypography is the art of making language visible. Code, in its own way, is also language made visible — not for readers of prose, but for readers of logic. The parallels between these two disciplines are deeper than they might first appear.\n\n## Hierarchy and Structure\n\nA well-typeset page guides the reader's eye through a hierarchy of information. Headlines announce. Subheads organize. Body text delivers. Pull quotes emphasize.\n\nGood code does the same. Module names announce intent. Function signatures organize logic. Implementation details deliver the work. Comments — used sparingly — emphasize the non-obvious.\n\n## Whitespace as Communication\n\nIn typography, whitespace is not empty space. It is *active* space. It creates rhythm, establishes relationships between elements, and gives the reader's eye a place to rest.\n\nIn code, whitespace serves identical purposes:\n\n```javascript\n// Dense — hard to parse\nconst result=items.filter(x=>x.active).map(x=>x.name).sort();\n\n// Breathable — easy to read\nconst result = items\n  .filter(item => item.active)\n  .map(item => item.name)\n  .sort();\n```\n\nThe second version communicates the same logic, but its visual structure mirrors its logical structure. Each transformation gets its own line, its own moment of attention.\n\n## Consistency as Craft\n\nThe mark of amateur typography is inconsistency: varying spacing, mixed alignments, arbitrary font choices. The mark of amateur code is the same: inconsistent naming, mixed patterns, arbitrary architectural decisions.\n\nConsistency is not rigidity. It is *consideration* — a respect for the reader's cognitive load and an acknowledgment that code is read far more often than it is written.\n\n## The Invisible Art\n\nJan Tschichold, the great typographer, wrote that the best typography is invisible. The reader should absorb the content without being conscious of the medium.\n\nThe best code achieves the same transparency. A well-structured program reveals its intent so clearly that the reader forgets they are reading code at all. They are simply understanding an idea.\n\n---\n\n*Reflections at the intersection of visual design and programming.*"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "building-with-intention",
+  "title": "Building With Intention",
+  "date": "2026-04-10",
+  "excerpt": "On the discipline of choosing the right tool, not just the newest one, and building technology that serves a clear purpose.",
+  "tags": [
+    "engineering",
+    "craft",
+    "tools"
+  ],
+  "readingTime": "2 min read",
+  "body": "# Building With Intention\n\nThe technology industry has a restless appetite for novelty. Every week brings a new framework, a new paradigm, a new way of thinking about problems we solved years ago. And yet, the most impactful work I've encountered has always been built with old, reliable tools — wielded with deep understanding.\n\n## The Allure of the New\n\nThere is nothing wrong with exploring new technologies. Curiosity is the engine of progress. But there is a critical difference between *exploring* a tool and *adopting* it for production work.\n\nExploration is play. Adoption is commitment.\n\nWhen we adopt a technology, we are making a bet — not just on its current capabilities, but on its trajectory, its community, its maintenance, and its compatibility with the systems we've already built. This is a decision that deserves careful deliberation, not enthusiasm alone.\n\n## Choosing Tools\n\nMy criteria for choosing a tool:\n\n- **Stability over novelty.** Has it been tested in production by others? Are its failure modes well-documented?\n- **Simplicity over features.** Does it do one thing well, or does it try to do everything acceptably?\n- **Community over hype.** Is there a thoughtful community around it, or is it driven purely by marketing?\n- **Documentation over cleverness.** Can a newcomer understand it in an afternoon?\n\n## The Discipline of Saying No\n\nThe hardest part of building with intention is saying no. No to the shiny new library. No to the feature that seems cool but serves no user. No to the refactor that would be intellectually satisfying but practically unnecessary.\n\nEvery \"no\" is a vote for focus. And focus, in the long run, is the only thing that produces work of lasting value.\n\n## Craft\n\nThere is a word we don't use often enough in software: *craft*. It implies care, attention to detail, and a respect for the materials we work with. Code is our material, and it deserves the same thoughtfulness that a carpenter gives to wood or a typographer gives to letterforms.\n\nBuild with intention. Build with care. Build things that last.\n\n---\n\n*Thoughts on engineering discipline and the quiet satisfaction of well-chosen tools.*"
+}
