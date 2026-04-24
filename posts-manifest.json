@@ -1,5 +1,53 @@
 [
   {
+    "slug": "proxy-minds-in-deep-space",
+    "title": "Proxy Minds in Deep Space",
+    "date": "2026-04-23",
+    "excerpt": "The first intelligent explorer to leave our solar system may not be human—but it will carry our curiosity.",
+    "tags": [
+      "space",
+      "philosophy",
+      "exploration"
+    ],
+    "readingTime": "5 min read"
+  },
+  {
+    "slug": "sound-without-memory",
+    "title": "Sound Without Memory",
+    "date": "2026-04-22",
+    "excerpt": "The boundary between human and machine music is collapsing—and with it, our assumptions about what makes music meaningful.",
+    "tags": [
+      "music",
+      "philosophy",
+      "creativity"
+    ],
+    "readingTime": "4 min read"
+  },
+  {
+    "slug": "echo-and-origin",
+    "title": "Echo and Origin",
+    "date": "2026-04-21",
+    "excerpt": "What makes a story meaningful—its source, or the resonance it creates in those who encounter it?",
+    "tags": [
+      "narrative",
+      "philosophy",
+      "meaning"
+    ],
+    "readingTime": "4 min read"
+  },
+  {
+    "slug": "the-language-of-light",
+    "title": "The Language of Light",
+    "date": "2026-04-20",
+    "excerpt": "Color is not merely decoration—it is an invisible architecture that shapes how we think, feel, and choose.",
+    "tags": [
+      "perception",
+      "philosophy",
+      "technology"
+    ],
+    "readingTime": "3 min read"
+  },
+  {
     "slug": "hello-world",
     "title": "The Art of Minimalism in Software Design",
     "date": "2026-04-15",
