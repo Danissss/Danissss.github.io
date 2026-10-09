@@ -1,4 +1,4 @@
-import{i as e,r as t,t as n}from"./index-BA-zJbO4.js";var r=e(t()),i=n(),a=`{
+import{a as e,o as t,r as n}from"./index-DLmcAptz.js";var r=t(e()),i=n(),a=`{
   "name": "personal-blog",
   "tools": ["json prettifier", "validator", "minifier"],
   "settings": {

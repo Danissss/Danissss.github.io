@@ -1,4 +1,4 @@
-import{i as e,r as t,t as n}from"./index-BA-zJbO4.js";var r=e(t()),i=n(),a=`Design systems keep interfaces consistent.
+import{a as e,o as t,r as n}from"./index-DLmcAptz.js";var r=t(e()),i=n(),a=`Design systems keep interfaces consistent.
 Small controls should feel predictable.
 A good tool respects private text.`,o=`Design systems keep products consistent.
 Small controls should feel fast and predictable.
